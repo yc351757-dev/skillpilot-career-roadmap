@@ -1,0 +1,9 @@
+SkillPilot — Windows Quick Start
+
+1. Extract this ZIP into a folder.
+2. Open PowerShell in the extracted folder (the folder where package.json is visible).
+3. Run: npm install
+4. Run: npm run dev
+5. Open the local URL printed in the terminal, usually http://localhost:5173/
+
+Important: package.json is at the ZIP root; do not run npm from a parent folder.
